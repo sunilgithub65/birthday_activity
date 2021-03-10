@@ -182,6 +182,7 @@ class App extends React.Component {
               );
             })}
             </div>
+            <div className="label-count">{filteredDates.length} Birthday</div>
         </li>
       );
     } else {
@@ -189,6 +190,7 @@ class App extends React.Component {
         <li className="cal__day day--empty" data-day={dayName}>
           <div className="day__date"></div>
           <div className="day__people"></div>
+          <div className="label-count">No Birthday</div>
         </li>
       );
     }

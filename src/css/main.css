@@ -286,3 +286,9 @@ code, pre {
     background: #f5fafc;
     padding: 1px 6px;
 }
+.label-count {
+    background-color: #eaf0f2;
+font-size: 13px;
+text-align: center;
+color: black;
+}
