@@ -15,6 +15,22 @@ class App extends React.Component {
           birthday: "12/02/1978",
         },
         {
+          name: "Tyrion Lannister",
+          birthday: "12/02/1978",
+        },
+        {
+          name: "Tyrion Lannister",
+          birthday: "12/02/1978",
+        },
+        {
+          name: "Tyrion Lannister",
+          birthday: "12/02/1978",
+        },
+        {
+          name: "Tyrion Lannister",
+          birthday: "12/02/1978",
+        },
+        {
           name: "Cersei Lannister",
           birthday: "11/30/1975",
         },
